@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋, my name is Alberto Wisniewski Mata
 
+I'm a spanish self-taught student who wants to become a web developer.
+- 🌱 I’m currently learning HTML, CSS, JS, Python, React, MongoDB, MySQL and more
 <!--
 **Wismal/Wismal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
